@@ -7,7 +7,7 @@
 - telegram: @kkristina96888
 - GitHub:KrisOps888 
 # 3. About me 
-###### I want to study programming languages such as HTML, CSS, JavaScript.
+###### I want to study programming languages such as HTML, CSS, JavaScript. It is interesting i think.
 I always have believe that every person can have studied everything that want and have had everything skills that he/she want. 
 # 4. My skills 
 - Markdown
