@@ -20,4 +20,4 @@ I always have believe that every person can have studied everything that want an
 # 7. Education
 Mogilev State University of Food Technologies..
 # 8. English-level
-B1 (B2 in process)
+B1 (B2 in process...)
